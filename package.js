@@ -1,7 +1,7 @@
 Package.describe({
   name: 'delgermurun:mediaelementjs',
   summary: 'HTML5 <audio> or <video> player enabling a consistent UI in all browsers.',
-  version: '2.16.1',
+  version: '2.16.1_1',
   git: 'https://github.com/delgermurun/meteor-mediaelement'
 });
 
