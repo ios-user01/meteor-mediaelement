@@ -1,7 +1,7 @@
 Meteor MediaElementJS
 =====================
 
-[MediaElementJS](http://mediaelementjs.com/) packaged for [Meteor](http://meteor.com).
+[MediaElementJS](http://mediaelementjs.com/) package for [Meteor](http://meteor.com).
 
 
 ### Installation
